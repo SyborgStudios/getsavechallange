@@ -1,0 +1,137 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://mywebserver.com/images/271946.jpg
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Server:
+      - nginx/1.16.1
+      Date:
+      - Thu, 17 Sep 2020 09:56:42 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - close
+      Location:
+      - https://goldnames.com/view/219
+    body:
+      encoding: UTF-8
+      string: ''
+  recorded_at: Thu, 17 Sep 2020 09:56:42 GMT
+- request:
+    method: get
+    uri: https://goldnames.com/view/219
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 17 Sep 2020 09:56:43 GMT
+      Server:
+      - Apache
+      X-Powered-By:
+      - PHP/5.6.40
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma:
+      - no-cache
+      Set-Cookie:
+      - PHPSESSID=b0166g5i7vk5v2tgjc15r4lh55; path=/
+      Upgrade:
+      - h2,h2c
+      Connection:
+      - Upgrade
+      Vary:
+      - Accept-Encoding,User-Agent
+      Content-Length:
+      - '1808'
+      Content-Type:
+      - text/html; charset=UTF-8
+    body:
+      encoding: ASCII-8BIT
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\">\n\n<head>\n<base href=\"/\" />\n<meta
+        name=\"google-site-verification\" content=\"2z584b4_8VTxGx3UQir92xNUEsPKz7iNDcDkK36cjDM\"
+        />\n<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"
+        />\n<title>Domains for sale! - GoldNames.com</title>\n<META NAME=\"Keywords\"
+        CONTENT=\"domain, domain name, domains for sale, domain purchase, buy domain
+        name, top level domain, domains, tld, idn, whois, where to buy domain names,
+        domain names list, best domain name, aged domains, domain auction, domain
+        news, dns, domain selling, premium domain, domain price, get domain, brand
+        names for sale, brandable domains, good domain names, domaining, aftermarket,
+        expired domains\">\n<META NAME=\"Description\" CONTENT=\"Domains for sale!
+        - GoldNames.com.\">\n<link href=\"/default.css\" rel=\"stylesheet\" type=\"text/css\"
+        />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/style.css\" media=\"all\"
+        />\n</head>\n\n<body>\n  <div id=\"wrapper\">\n  <!-- start header -->\n  <div
+        id=\"header\">\n    <div id=\"logo\"><h1><a href=\"/\">GoldNames.com</a></h1><h2>We
+        like domains!</h2></div>\n    <div id=\"menu\">\n      <ul>\n      <li  ><a
+        href=\"/\">Home</a></li>\n      <li  ><a href=\"/list/\">Domains we own</a></li>\n
+        \     <li  ><a href=\"https://blog.goldnames.com/\">Blog</a></li>\n      <li
+        ><a href=\"/contact/\">Contact Us</a></li>\n      </ul>\n    </div>\n  <!--
+        end header -->\n  </div>\n  <!-- end wrapper -->\n  </div>\n\n  <!-- start
+        page -->\n  <div id=\"page\">\n\n  <!-- start content -->\n  <div id=\"content\">\n
+        \   <div class=viewdom>\n    <div id=title>mywebserver.com</div>\n    <div
+        id=row> <span id=b>Description: </span>mywebserver server web server my web
+        server</div>\n    <div id=row>Domain registration date:  <span id=b>21 September
+        2013</span></div>\n\n    <table cellpadding=3 cellspacing=0 border=0 width=100%>\n
+        \     <tr><td align=center><div id=subbox><form action=\"/contact/mywebserver.com\"
+        method=\"post\">\n      <input type=\"submit\" name=\"submit\" value=\"Make
+        an offer\" style=\"background-color:#ff0000;font-size:18px;color:#FFFFFF\">
+        \     </form></div></td></tr>\n    </table>\n  </div>\n  <!-- end content
+        -->\n  </div>\n\n  <!-- start sidebar -->\n  <div id=\"sidebar\">\n    <ul>\n
+        \     <li>\n      <ul>\n        <a href=\"https://twitter.com/goldnames_com\"
+        class=\"twitter-follow-button\" data-show-count=\"false\">Follow @goldnames_com</a>\n
+        \       <script src=\"//platform.twitter.com/widgets.js\" type=\"text/javascript\"></script>\n
+        \     </ul>\n      </li>\n      <li><h2><strong>About us</strong></h2>\n        Need
+        a valuable domain name for your business? We specialize in domain name trading
+        and have acquired some premium domains. Please take a look at our domain name
+        portfolio and if something catches your eye, don't hesitate to <a href=\"/contact/\">contact
+        us</a>.\n      </li>\n      <li><h2><strong>Recent acquisitions</strong></h2>\n
+        \     <ul>\n\t\t    <li>2017-07-24 <a href=\"/view/247\">organicjuicebar.com</a></li>\n\t\t
+        \   <li>2016-11-04 <a href=\"/view/246\">deletehistory.com</a></li>\n\t\t
+        \   <li>2016-11-04 <a href=\"/view/244\">richtube.com</a></li>\n\t\t    <li>2016-11-04
+        <a href=\"/view/243\">ringy.com</a></li>\n\t\t    <li>2016-11-04 <a href=\"/view/242\">runed.com</a></li>\n\t
+        \     </ul>\n      </li>\n      <li><h2><strong>News</strong></h2>\n        We
+        launched a new website.. Check out <a href=\"http://blackrice.com\">BlackRice.com</a>
+        for information about healthy, nutritious and full of antioxidants black rice.\n
+        \     </li>\n    </ul>\n  <!-- end sidebar -->\n  </div>\n  <div style=\"clear:
+        both;\">&nbsp;</div>\n  <!-- end page -->\n  </div>\n\n  <!-- start footer
+        -->\n  <div id=\"footer\">\n    <p id=\"legal\">(c) 2010-2020 GoldNames.com
+        </p>\n  <!-- end footer -->\n  </div>\n\n  <script type=\"text/javascript\">\n
+        \ var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-16517524-1']);\n
+        \ _gaq.push(['_trackPageview']);\n  (function() {\n    var ga = document.createElement('script');
+        ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol
+        ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var
+        s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+        s);\n  })();\n  </script>\n\n</body>\n</html>\n"
+  recorded_at: Thu, 17 Sep 2020 09:56:43 GMT
+recorded_with: VCR 6.0.0
